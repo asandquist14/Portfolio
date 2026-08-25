@@ -5,31 +5,31 @@ I'm a Data Science student at Xavier University with a passion for using data to
 
 I'm particularly interested in data science, sports analytics, and data-driven decision making.
 
-# 🛠️ Technical Skills
+# Technical Skills
 
 Programming: Python, R, SQL, JavaScript
 Data Science: Pandas, NumPy, Scikit-learn, Statistical Modeling
 Data Visualization: Matplotlib, Seaborn, Tableau
 Tools: GitHub, Jupyter Notebook, Streamlit, Microsoft Excel
 
-## 📊 Featured Projects
-# 🏥 Forvis Mazars — Data Science Internship
+# Featured Projects
+## Forvis Mazars — Data Science Internship
 
-View Project →
+View Project → https://github.com/asandquist14/Forvis-Mazars-Xavier-University-Summer-internship
 
 Analyzed demographic and hospital data to identify factors associated with uncompensated care. Developed predictive models and interactive visualizations to communicate findings and support healthcare consulting decisions.
 
 Tools: R Statistical Modeling Data Analysis Data Visualization Shiny
 
-# 📈 Data Mining Project
+## Data Mining Project
 
-View Project →
+View Project → https://github.com/asandquist14/Data-Mining-Project
 
 Applied data mining and predictive modeling techniques to analyze a real-world dataset. Explored the data, prepared features, developed models, and evaluated their performance.
 
 Tools: Python Data Mining Machine Learning Predictive Modeling
 
-# 📊 DataFest 2025
+## DataFest 2025
 
 View Project → https://github.com/asandquist14/DataFest2025
 
@@ -37,15 +37,15 @@ Worked with a team to analyze a real-world dataset, identify meaningful patterns
 
 Tools: R Data Cleaning Exploratory Data Analysis Statistical Analysis Data Visualization
 
-# 📚 Socioeconomic Status & Academic Achievement
+## Socioeconomic Status & Academic Achievement
 
-View Project →
+View Project → https://github.com/asandquist14/Impact-of-Socioeconomic-Status-on-Academic-Achievement-Across-Different-States-in-the-U.S.
 
 Explored the relationship between socioeconomic status and academic achievement across U.S. states using data analysis and visualization to identify geographic and socioeconomic patterns.
 
 Tools: Python Jupyter Notebook Data Analysis Data Visualization
 
-# 🏐 Xavier Women's Volleyball Analytics
+## Xavier Women's Volleyball Analytics
 
 Coming Soon
 
