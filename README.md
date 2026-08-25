@@ -14,8 +14,7 @@ Tools: GitHub, Jupyter Notebook, Streamlit, Microsoft Excel
 
 # Featured Projects
 ## Forvis Mazars — Data Science Internship
-
-View Project → https://github.com/asandquist14/Forvis-Mazars-Xavier-University-Summer-internship
+[**View Project ->**](https://github.com/asandquist14/Forvis-Mazars-Xavier-University-Summer-internship)
 
 Analyzed demographic and hospital data to identify factors associated with uncompensated care. Developed predictive models and interactive visualizations to communicate findings and support healthcare consulting decisions.
 
@@ -23,7 +22,7 @@ Tools: R Statistical Modeling Data Analysis Data Visualization Shiny
 
 ## Data Mining Project
 
-View Project → https://github.com/asandquist14/Data-Mining-Project
+[**View Project →**](https://github.com/asandquist14/Data-Mining-Project)
 
 Applied data mining and predictive modeling techniques to analyze a real-world dataset. Explored the data, prepared features, developed models, and evaluated their performance.
 
@@ -31,7 +30,7 @@ Tools: Python Data Mining Machine Learning Predictive Modeling
 
 ## DataFest 2025
 
-View Project → https://github.com/asandquist14/DataFest2025
+[**View Project →**](https://github.com/asandquist14/DataFest2025)
 
 Worked with a team to analyze a real-world dataset, identify meaningful patterns, and communicate our findings through statistical analysis and data visualization.
 
@@ -39,7 +38,7 @@ Tools: R Data Cleaning Exploratory Data Analysis Statistical Analysis Data Visua
 
 ## Socioeconomic Status & Academic Achievement
 
-View Project → https://github.com/asandquist14/Impact-of-Socioeconomic-Status-on-Academic-Achievement-Across-Different-States-in-the-U.S.
+[**View Project →**](https://github.com/asandquist14/Impact-of-Socioeconomic-Status-on-Academic-Achievement-Across-Different-States-in-the-U.S.)
 
 Explored the relationship between socioeconomic status and academic achievement across U.S. states using data analysis and visualization to identify geographic and socioeconomic patterns.
 
