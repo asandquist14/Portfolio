@@ -46,7 +46,7 @@ Tools: Python Jupyter Notebook Data Analysis Data Visualization
 
 ## Xavier Women's Volleyball Analytics (IN PROGRESS)
 
-[**View Project ->**](https://github.com/asandquist14/2026_XUVB_Analytics.git)
+COMING SOON
 
 Developing an analytics system for Xavier Women's Volleyball to collect, organize, and analyze practice and match performance data.
 
